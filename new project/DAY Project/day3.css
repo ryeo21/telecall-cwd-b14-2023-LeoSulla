@@ -1,0 +1,32 @@
+h1,h2,h3,h4,h5,h6, p{
+    font-weight: 300;
+}
+.stock-link{
+    font-weight: 200;
+    font-size: 13px;
+}
+.h3.heading-text {
+    font-weight: 900;
+    font-family: system-ui;
+    color: orange !important;
+}
+.hero-section{
+    height: 500px;
+    width: 100;
+    padding:0 ;
+    margin: 0;
+}
+.abobe-stock{
+    position: sticky;
+    top: 0;
+}
+.stock-img{
+    margin: 19px 10px 20px;
+    position: sticky;
+    top: 20px;
+}
+.stock-link-small{
+    font-weight: 120;
+    font-size: 13px;
+    margin-left: 8px;
+}
